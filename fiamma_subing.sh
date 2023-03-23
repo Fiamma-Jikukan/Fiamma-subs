@@ -1,6 +1,6 @@
-EPISODE="[SubsPlease] Boku no Hero Academia - 134 (1080p) [1AA8F7DC]"
+EPISODE="[SubsPlease] Boku no Hero Academia - 137 (1080p) [F048B179]"
 
-output="[FiammaSubs] Boku no Hero Academia 134 [1080]"
+output="[FiammaSubs] Boku no Hero Academia 137 - S06 E24 - [1080]"
 
 
 sh extracting.sh "$EPISODE"
