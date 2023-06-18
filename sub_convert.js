@@ -15,3 +15,4 @@ const finalSubs = needToTransform.join("\r\n\r\n")
 console.log(subs);
 
 fs.writeFileSync(`${__dirname}\\${subs}.ass`, finalSubs)
+ 
