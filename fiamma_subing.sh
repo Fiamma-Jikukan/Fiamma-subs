@@ -1,8 +1,8 @@
-EPISODE="[SubsPlease] Kimetsu no Yaiba - Katanakaji no Sato-hen - 10 (1080p) [73571E54]"
+EPISODE="video name"
 
-output="[FiammaSubs] Kimetsu no Yaiba S03 - 10 [1080]"
+output="final video name"
 
-pathWant="/D/Anime/Kimetsu no Yaiba/arc 8"
+pathWant="full path desired"
 
 
 
