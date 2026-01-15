@@ -5,3 +5,5 @@ This project uses FFmpeg commands and bash scripts to alter and burn subtitles i
 2. It alters the subtitles to the desired format
 
 3. It burns the new subtitles into the empty video.
+
+Entry point: fiamma_subing.sh
